@@ -1,0 +1,33 @@
+{
+	"name": "Titanium Alloy T-882",
+	"description": "Titanium alloy with exceptional strength for aircraft structural frames. Produced at Nippon AeroMetals, Osaka, Japan.",
+	"image": "ipfs://bafybeidummylinkexamplehash/titanium_alloy_t_882.jpg",
+	"attributes": [
+		{
+			"trait_type": "Batch Number",
+			"value": "T-882"
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 950
+		},
+		{
+			"trait_type": "Unit",
+			"value": "kg"
+		},
+		{
+			"trait_type": "Created Location",
+			"value": "Nippon AeroMetals, Osaka, Japan"
+		}
+	],
+	"supply_chain": {
+		"certificates": [
+			"ipfs://bafybei1111111111111111111111111111111111111111111111111111",
+			"ipfs://bafybei2222222222222222222222222222222222222222222222222222"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}

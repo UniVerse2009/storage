@@ -1,0 +1,34 @@
+{
+    "name": "Graphene Coating G-29",
+    "description": "Ultra-thin graphene coating for aircraft surfaces to enhance conductivity and corrosion resistance. Produced at NanoLayer Labs, Tokyo, Japan.",
+    "image": "ipfs://bafybeidummylinkexamplehash/graphene_coating_g_29.jpg",
+    "attributes": [
+        {
+            "trait_type": "Batch Number",
+            "value": "G-29"
+        },
+        {
+            "trait_type": "Quantity",
+            "value": 200
+        },
+        {
+            "trait_type": "Unit",
+            "value": "kg"
+        },
+        {
+            "trait_type": "Created Location",
+            "value": "NanoLayer Labs, Tokyo, Japan"
+        }
+    ],
+    "supply_chain": {
+        "certificates": [
+            "ipfs://bafybeieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "ipfs://bafybeiffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+        ],
+        "document_hashes": [
+            "0xee555555555555555555555555555555555555555555555555555555555555ee",
+            "0xff666666666666666666666666666666666666666666666666666666666666ff"
+        ]
+    }
+}
+

@@ -1,0 +1,34 @@
+{
+    "name": "Kevlar Fiber K-47",
+    "description": "High-strength Kevlar fiber for aircraft protective panels and reinforcement. Produced at FiberTech Solutions, Newark, USA.",
+    "image": "ipfs://bafybeidummylinkexamplehash/kevlar_fiber_k_47.jpg",
+    "attributes": [
+        {
+            "trait_type": "Batch Number",
+            "value": "K-47"
+        },
+        {
+            "trait_type": "Quantity",
+            "value": 500
+        },
+        {
+            "trait_type": "Unit",
+            "value": "kg"
+        },
+        {
+            "trait_type": "Created Location",
+            "value": "FiberTech Solutions, Newark, USA"
+        }
+    ],
+    "supply_chain": {
+        "certificates": [
+            "ipfs://bafybeiccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+            "ipfs://bafybeiddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+        ],
+        "document_hashes": [
+            "0xcc333333333333333333333333333333333333333333333333333333333333cc",
+            "0xdd444444444444444444444444444444444444444444444444444444444444dd"
+        ]
+    }
+}
+
