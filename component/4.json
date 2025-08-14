@@ -1,0 +1,43 @@
+{
+	"name": "GroundHug Pro Landing Gear",
+	"description": "Heavy-duty landing gear for aircraft with enhanced shock absorption. Manufactured at AeroGear Industries, Paris, France.",
+	"image": "ipfs://bafybeidummylinkexamplehash/landing_gear.jpg",
+	"attributes": [
+		{
+			"trait_type": "Material Used",
+			"value": [
+				"Aluminium Alloy 7075-T6 Sheet",
+				"Titanium Alloy T-882",
+				"Aerospace Lubricant LUB-5"
+			]
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 1
+		},
+		{
+			"trait_type": "Unit",
+			"value": "pcs"
+		},
+		{
+			"trait_type": "Manufactured Location",
+			"value": "AeroGear Industries, Paris, France"
+		}
+	],
+	"supply_chain": {
+		"material_ids": [
+			1,
+			2,
+			6
+		],
+		"certificates": [
+			"ipfs://bafybeidummylinkexamplehash/certificate_1",
+			"ipfs://bafybeidummylinkexamplehash/certificate_2"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}
+

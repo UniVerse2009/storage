@@ -1,0 +1,50 @@
+{
+	"name": "PK-ABC Airbus Neo-3000F",
+	"description": "Next-generation aircraft with advanced features including the TurboDragon-X engine, SkyBrain 2.0 avionics system, and the latest fuel safety technology. Assembled at AeroAssembler, California, USA.",
+	"image": "ipfs://bafybeidummylinkexamplehash/aircraft_pk_abc.jpg",
+	"attributes": [
+		{
+			"trait_type": "Engine",
+			"value": "TurboDragon-X Turbine Engine"
+		},
+		{
+			"trait_type": "Left Wing Assembly",
+			"value": "C-001 Left Wing Assembly"
+		},
+		{
+			"trait_type": "Right Wing Assembly",
+			"value": "C-002 Right Wing Assembly"
+		},
+		{
+			"trait_type": "Avionics System",
+			"value": "SkyBrain 2.0 Avionics System"
+		},
+		{
+			"trait_type": "Landing Gear",
+			"value": "GroundHug Pro Landing Gear"
+		},
+		{
+			"trait_type": "Fuel Safety Tank",
+			"value": "Fuel Safety Tank"
+		}
+	],
+	"supply_chain": {
+		"component_ids": [
+			"0x1",
+			"0x2",
+			"0x3",
+			"0x4",
+			"0x5",
+			"0x6"
+		],
+		"certificates": [
+			"ipfs://bafybeidummylinkexamplehash/certificate_1",
+			"ipfs://bafybeidummylinkexamplehash/certificate_2"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}
+

@@ -1,0 +1,43 @@
+{
+	"name": "Left Wing Assembly",
+	"description": "Complete assembly of the left wing of the aircraft, including structure and aerodynamic surfaces. Manufactured at AeroWing Factory, Singapore.",
+	"image": "ipfs://bafybeidummylinkexamplehash/left_wing_assembly.jpg",
+	"attributes": [
+		{
+			"trait_type": "Material Used",
+			"value": [
+				"Aluminium Alloy 7075-T6 Sheet",
+				"Titanium Alloy T-882",
+				"Carbon Composite CC-12"
+			]
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 1
+		},
+		{
+			"trait_type": "Unit",
+			"value": "pcs"
+		},
+		{
+			"trait_type": "Manufactured Location",
+			"value": "AeroWing Factory, Singapore"
+		}
+	],
+	"supply_chain": {
+		"material_ids": [
+			1,
+			2,
+			3
+		],
+		"certificates": [
+			"ipfs://bafybeidummylinkexamplehash/certificate_1",
+			"ipfs://bafybeidummylinkexamplehash/certificate_2"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}
+

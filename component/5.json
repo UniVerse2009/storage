@@ -1,0 +1,43 @@
+{
+	"name": "Fuel Safety Tank",
+	"description": "Reinforced fuel tank with anti-leak technology for aircraft. Manufactured at AeroTank Solutions, Sydney, Australia.",
+	"image": "ipfs://bafybeidummylinkexamplehash/fuel_safety_tank.jpg",
+	"attributes": [
+		{
+			"trait_type": "Material Used",
+			"value": [
+				"Kevlar Fiber K-47",
+				"Aluminium Alloy 7075-T6 Sheet",
+				"Graphene Coating G-29"
+			]
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 1
+		},
+		{
+			"trait_type": "Unit",
+			"value": "pcs"
+		},
+		{
+			"trait_type": "Manufactured Location",
+			"value": "AeroTank Solutions, Sydney, Australia"
+		}
+	],
+	"supply_chain": {
+		"material_ids": [
+			4,
+			1,
+			5
+		],
+		"certificates": [
+			"ipfs://bafybeidummylinkexamplehash/certificate_1",
+			"ipfs://bafybeidummylinkexamplehash/certificate_2"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}
+

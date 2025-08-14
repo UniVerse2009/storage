@@ -1,0 +1,34 @@
+{
+    "name": "Optical Glass OG-88",
+    "description": "Precision optical glass for cockpit instruments and aircraft sensors. Produced at VisionTech Optics, Paris, France.",
+    "image": "ipfs://bafybeidummylinkexamplehash/optical_glass_og_88.jpg",
+    "attributes": [
+        {
+            "trait_type": "Batch Number",
+            "value": "OG-88"
+        },
+        {
+            "trait_type": "Quantity",
+            "value": 300
+        },
+        {
+            "trait_type": "Unit",
+            "value": "kg"
+        },
+        {
+            "trait_type": "Created Location",
+            "value": "VisionTech Optics, Paris, France"
+        }
+    ],
+    "supply_chain": {
+        "certificates": [
+            "ipfs://bafybeijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+            "ipfs://bafybeikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+        ],
+        "document_hashes": [
+            "0xcc999999999999999999999999999999999999999999999999999999999999cc",
+            "0xdd000000000000000000000000000000000000000000000000000000000000dd"
+        ]
+    }
+}
+

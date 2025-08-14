@@ -1,0 +1,34 @@
+{
+	"name": "Aluminium Alloy 7075-T6 Sheet",
+	"description": "High-strength aluminum alloy sheet for aircraft structural components. Produced at AeroMetals Plant, Tangerang, Indonesia.",
+	"image": "ipfs://bafybeidummylinkexamplehash/aluminium_alloy_7075_t6.jpg",
+	"attributes": [
+		{
+			"trait_type": "Batch Number",
+			"value": "00045"
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 1200
+		},
+		{
+			"trait_type": "Unit",
+			"value": "kg"
+		},
+		{
+			"trait_type": "Created Location",
+			"value": "AeroMetals Plant, Tangerang, Indonesia"
+		}
+	],
+	"supply_chain": {
+		"certificates": [
+			"ipfs://bafybeibbr7r2znqkxjfyh2ew6h3u3o5fxu4ab5a7bxxg6gmsk3jz5k5c3e",
+			"ipfs://bafybeihzqxtg6mvhh6c22gnalxpx7opwz2xewi3bqil7pnxyvj4c4nv3ha"
+		],
+		"document_hashes": [
+			"0xa43f6b7c7ff123c1a099e0d8793f0ff7e8b31c74c4e5df0fdfe83cf476b1d3c2",
+			"0xb29d2ff7a3b06f445e9dbe6dbca144e0228ac11f7e03e143a13a9329d00a4e95"
+		]
+	}
+}
+

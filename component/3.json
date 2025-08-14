@@ -1,0 +1,43 @@
+{
+	"name": "SkyBrain 2.0 Avionics System",
+	"description": "Next-gen avionics system with AI-powered flight controls and monitoring. Manufactured at AeroTech Systems, Berlin, Germany.",
+	"image": "ipfs://bafybeidummylinkexamplehash/avionics_system.jpg",
+	"attributes": [
+		{
+			"trait_type": "Material Used",
+			"value": [
+				"Optical Glass OG-88",
+				"Graphene Coating G-29",
+				"Carbon Composite CC-12"
+			]
+		},
+		{
+			"trait_type": "Quantity",
+			"value": 1
+		},
+		{
+			"trait_type": "Unit",
+			"value": "pcs"
+		},
+		{
+			"trait_type": "Manufactured Location",
+			"value": "AeroTech Systems, Berlin, Germany"
+		}
+	],
+	"supply_chain": {
+		"material_ids": [
+			7,
+			5,
+			3
+		],
+		"certificates": [
+			"ipfs://bafybeidummylinkexamplehash/certificate_1",
+			"ipfs://bafybeidummylinkexamplehash/certificate_2"
+		],
+		"document_hashes": [
+			"0xaa111111111111111111111111111111111111111111111111111111111111aa",
+			"0xbb222222222222222222222222222222222222222222222222222222222222bb"
+		]
+	}
+}
+

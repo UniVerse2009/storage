@@ -1,0 +1,34 @@
+{
+    "name": "Aviation-Grade Aluminum AL-73",
+    "description": "Lightweight, corrosion-resistant aluminum alloy for aircraft fuselage and wing structures. Produced at AeroMetals Inc., Seattle, USA.",
+    "image": "ipfs://bafybeidummylinkexamplehash/aviation_grade_aluminum_al_73.jpg",
+    "attributes": [
+        {
+            "trait_type": "Batch Number",
+            "value": "AL-73"
+        },
+        {
+            "trait_type": "Quantity",
+            "value": 1200
+        },
+        {
+            "trait_type": "Unit",
+            "value": "kg"
+        },
+        {
+            "trait_type": "Created Location",
+            "value": "AeroMetals Inc., Seattle, USA"
+        }
+    ],
+    "supply_chain": {
+        "certificates": [
+            "ipfs://bafybeiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "ipfs://bafybeibbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        ],
+        "document_hashes": [
+            "0xaa111111111111111111111111111111111111111111111111111111111111aa",
+            "0xbb222222222222222222222222222222222222222222222222222222222222bb"
+        ]
+    }
+}
+

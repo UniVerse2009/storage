@@ -1,0 +1,34 @@
+{
+    "name": "Aerospace Lubricant LUB-5",
+    "description": "High-performance lubricant for jet engines and moving components under extreme temperatures. Produced at AeroLube Co., Frankfurt, Germany.",
+    "image": "ipfs://bafybeidummylinkexamplehash/aerospace_lubricant_lub_5.jpg",
+    "attributes": [
+        {
+            "trait_type": "Batch Number",
+            "value": "LUB-5"
+        },
+        {
+            "trait_type": "Quantity",
+            "value": 1000
+        },
+        {
+            "trait_type": "Unit",
+            "value": "liters"
+        },
+        {
+            "trait_type": "Created Location",
+            "value": "AeroLube Co., Frankfurt, Germany"
+        }
+    ],
+    "supply_chain": {
+        "certificates": [
+            "ipfs://bafybeigggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+            "ipfs://bafybeihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+        ],
+        "document_hashes": [
+            "0xaa777777777777777777777777777777777777777777777777777777777777aa",
+            "0xbb888888888888888888888888888888888888888888888888888888888888bb"
+        ]
+    }
+}
+
