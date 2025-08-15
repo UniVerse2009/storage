@@ -26,9 +26,9 @@
 	],
 	"supply_chain": {
 		"material_ids": [
-			4,
-			1,
-			5
+			17,
+			11,
+			18
 		],
 		"certificates": [
 			"ipfs://bafybeidummylinkexamplehash/certificate_1",
